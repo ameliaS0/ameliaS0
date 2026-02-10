@@ -10,18 +10,18 @@
 
 ---
 
-## <img src="https://icons.getbootstrap.com/assets/icons/stars.svg" width="28" height="28"/> About Me
+## <img src="https://api.iconify.design/mdi:star-outline.svg?color=white" width="28" height="28"/> About Me
 
 Passionate about **artificial intelligence** and **web development**, I bridge the gap between data-driven insights and practical applications. As an intern and student developer, I apply my ML/DL and full-stack development skills to solve real-world problems.
 
-<img src="https://icons.getbootstrap.com/assets/icons/buildings-fill.svg" width="20" height="20" /> Currently working as an AI Application Developer on a major company project <br>
-<img src="https://icons.getbootstrap.com/assets/icons/graph-up-arrow.svg" width="20" height="20" /> Constantly exploring new ML technologies and web frameworks <br>
-<img src="https://icons.getbootstrap.com/assets/icons/rocket-takeoff-fill.svg" width="20" height="20" /> I love building diverse projects in my free time <br>
-<img src="https://icons.getbootstrap.com/assets/icons/search.svg" width="20" height="20" /> Interested in the intersection of AI, data, and interactive web applications
+<img src="https://api.iconify.design/mdi:office-building.svg?color=white" width="20" height="20" /> Currently working as an AI Application Developer on a major company project <br>
+<img src="https://api.iconify.design/mdi:chart-line-variant.svg?color=white" width="20" height="20" /> Constantly exploring new ML technologies and web frameworks <br>
+<img src="https://api.iconify.design/mdi:rocket-launch.svg?color=white" width="20" height="20" /> I love building diverse projects in my free time <br>
+<img src="https://api.iconify.design/mdi:magnify.svg?color=white" width="20" height="20" /> Interested in the intersection of AI, data, and interactive web applications
 
 ---
 
-## <img src="https://icons.getbootstrap.com/assets/icons/tools.svg" width="28" height="28" /> Technologies & Skills
+## <img src="https://api.iconify.design/mdi:tools.svg?color=white" width="28" height="28" /> Technologies & Skills
 
 ### Programming Languages
 <div>
@@ -81,7 +81,7 @@ Passionate about **artificial intelligence** and **web development**, I bridge t
 </div>
 
 ---
-## <img src="https://api.iconify.design/carbon/skill-level-advanced.svg" width="28" height="28" /> Areas of Expertise
+## <img src="https://api.iconify.design/mdi:chart-box.svg?color=white" width="28" height="28" /> Areas of Expertise
 
 ### AI & Machine Learning
 - Deep Learning
@@ -106,7 +106,7 @@ Passionate about **artificial intelligence** and **web development**, I bridge t
 
 ---
 
-## <img src="https://icons.getbootstrap.com/assets/icons/send-arrow-up.svg" width="28" height="28" /> Let's Connect
+## <img src="https://api.iconify.design/mdi:send.svg?color=white" width="28" height="28" /> Let's Connect !
 
 <div>
 
